@@ -1,5 +1,10 @@
-This is the autoreader for personal users those can use their facebook account to read info on their account (personal page/group) and filter some keywords and push a message through Messenger as notification
+This is the facebook group manager tools for personal users those can use their facebook account to read info on their account (personal page/group) and filter some keywords and push a message through Messenger as notification
 
 As I remmember this code requires developer mode, and some pre-setting with Messenger. :( I did it quite long time ago :)
 
 https://tngotran.wordpress.com/2017/01/23/nail-fold-capillaroscopy-device/
+
+branches:
+1. master: for continuing searching for specific message and send through messenger
+2. group coppyer: coppy content from one group to another, to duplicate groups
+3. group manager: search and send message to users with pre-defined contents.
